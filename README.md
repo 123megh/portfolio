@@ -1,1 +1,2 @@
 # portfolio
+Description: Designed and developed a personal portfolio website showcasing my skills and projects. The website consists of multiple sections including Home, Projects, Skills, and Contact. Implemented HTML for structuring the content, CSS for styling with a natural color palette, and JavaScript for smooth scrolling navigation and contact form submission. Included a profile photo, project details, skills list, and a contact form. The final website is responsive, visually appealing, and ready to showcase my work and skills.
