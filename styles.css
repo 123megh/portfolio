@@ -3,10 +3,10 @@ body, h1, h2, h3, p {
     padding: 0;
 }
 
-/* Navigation bar styles */
+
 header {
-    background-color: #333; /* Dark gray background color */
-    color: #fff; /* White text color */
+    background-color: #333; 
+    color: #fff; 
     padding: 1rem;
 }
 
@@ -21,11 +21,11 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #fff; /* White link color */
+    color: #fff; 
     font-weight: bold;
 }
 
-/* Section styling */
+
 .section {
     padding: 2rem 0;
 }
@@ -36,21 +36,21 @@ nav ul li a {
     padding: 0 20px;
 }
 
-/* Home section */
+
 #home {
-    background-color: #f2e9e1; /* Soft beige color */
+    background-color: #f2e9e1; 
     text-align: left;
 }
 
-/* Profile photo */
+
 .profile-photo {
     display: inline-block;
-    width: 180px; /* Adjust the width of the profile photo container */
-    height: 180px; /* Adjust the height of the profile photo container */
+    width: 180px; 
+    height: 180px; 
     border-radius: 50%;
     overflow: hidden;
     margin-right: 30px;
-    border: 2px solid #8d6a68; /* Warm brown border */
+    border: 2px solid #8d6a68; 
 }
 
 .profile-photo img {
@@ -59,29 +59,29 @@ nav ul li a {
     object-fit: cover;
 }
 
-/* Introduction text */
+
 .intro {
-    margin-top: 10px; /* Adjust spacing between photo and text */
+    margin-top: 10px; 
 }
 
 .intro h1 {
     font-size: 24px;
     margin-bottom: 10px;
-    color: #3d3d3d; /* Dark gray text color */
+    color: #3d3d3d; 
 }
 
 .intro-text {
     font-size: 16px;
-    color: #5e5e5e; /* Slightly lighter gray text color */
+    color: #5e5e5e; 
 }
 
-/* Button styles */
+
 .btn {
     display: inline-block;
     padding: 1rem 2rem;
     margin-top: 1rem;
-    background-color: #8d6a68; /* Warm brown color */
-    color: #fff; /* White text color */
+    background-color: #8d6a68; 
+    color: #fff; 
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -92,19 +92,19 @@ nav ul li a {
 .btn:hover {
     transform: translateY(-3px);
     box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
-    background-color: #63493a; /* Slightly darker warm brown on hover */
+    background-color: #63493a; 
 }
 
-/* Projects section */
+
 #projects {
-    background-color: #f5f5f5; /* White background */
+    background-color: #f5f5f5; 
     padding: 2rem 0;
 }
 
 .project {
-	background-color: #f2e9e1;
+    background-color: #f2e9e1;
     padding: 1.5rem;
-    border: 1px solid #ffffff; /* Light gray border */
+    border: 1px solid #ffffff; 
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     margin-bottom: 1rem;
     border-radius: 5px;
@@ -118,30 +118,30 @@ nav ul li a {
 	color: #222;
 }
 
-/* Skills section */
+
 #skills {
-    background-color: #f2f2f2; /* Light gray background */
+    background-color: #f2f2f2; 
 }
 
 .skills-list li {
     margin: 0.5rem;
     padding: 0.5rem 1rem;
-    background-color: #8d6a68; /* Warm brown background */
+    background-color: #8d6a68; 
     color: #fff; /* White text color */
     border-radius: 5px;
 }
 
-/* Contact section */
+
 #contact {
-    background-color: #f4f4f4; /* Light gray background */
+    background-color: #f4f4f4; 
 }
 
 .contact-form {
     max-width: 400px;
     margin: 0 auto;
     padding: 1rem;
-    background-color: #ffffff; /* White background */
-    border: 1px solid #d8d8d8; /* Light gray border */
+    background-color: #ffffff; 
+    border: 1px solid #d8d8d8; 
     border-radius: 5px;
 }
 
@@ -156,7 +156,7 @@ nav ul li a {
     width: 100%;
     padding: 0.5rem;
     margin-bottom: 1rem;
-    border: 1px solid #d8d8d8; /* Light gray border */
+    border: 1px solid #d8d8d8; 
     border-radius: 5px;
 }
 
@@ -164,8 +164,8 @@ nav ul li a {
     display: block;
     width: 100%;
     padding: 1rem;
-    background-color: #8d6a68; /* Warm brown color */
-    color: #fff; /* White text color */
+    background-color: #8d6a68; 
+    color: #fff; 
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -174,12 +174,12 @@ nav ul li a {
 
 .contact-form button:hover {
     transform: translateY(-3px);
-    background-color: #63493a; /* Slightly darker warm brown on hover */
+    background-color: #63493a; 
 }
 
 footer {
-    background-color: #333; /* Dark gray background */
-    color: #fff; /* White text color */
+    background-color: #333; 
+    color: #fff; 
     text-align: center;
     padding: 1rem;
 }
